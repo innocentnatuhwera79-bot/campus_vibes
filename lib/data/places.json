@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Dream Land Hotel, Arua",
+    "category": "Hotels",
+    "description": "A comfortable hotel property known for relaxing environments, lodging services, and recreational amenities.",
+    "location": "Plot 317, Kuluva Trading Center, Okuvu, Vurra Sub County, Arua",
+    "contact": "+256 783 701220",
+    "image": "assets/images/dream_Land_Hotel.jpg"
+  },
+  {
+    "name": "Beal Mall Hotel Arua",
+    "category": "Hotels",
+    "description": "A modern hotel and shopping destination in Arua providing comfortable accommodation, restaurants, and bar services. Free Wi-fi, private parking, conference, event facilities and 24-hour reception.",
+    "location": "Awindri, Pakwach Road, Arua City, Uganda",
+    "contact": "+256 393 103791",
+    "image": "assets/images/beal_mall_hotel.jpg"
+  },
+  {
+    "name": "Heritage Courts - Arua",
+    "category": "Hotels",
+    "description": "A hospitality establishment featuring pleasant lodging, dining options, and leisure spaces.",
+    "location": "Plot 24, Weatherhead Parklane, Arua",
+    "contact": "+256 39 3274611",
+    "image": "assets/images/heritage_courts.jpg"
+  },
+  {
+    "name": "White Castle Hotel Arua",
+    "category": "Hotels",
+    "description": "A hotel with a calm, green environment, offering rooms, a restaurant, bar and grill, gym, and swimming pool in a peaceful setting close to the city.",
+    "location": "Arua, Uganda",
+    "contact": "+256 772 880830",
+    "image": "assets/images/white_castle_hotel.jpg"
+  },
+  {
+    "name": "Desert Breeze Hotel Arua",
+    "category": "Hotels",
+    "description": "A well-known hotel offering comfortable rooms, a restaurant serving local and continental dishes, and one of Arua's most spacious swimming pools.",
+    "location": "Plot 20 Odaa Close, Arua",
+    "contact": "+256 781 620905",
+    "image": "assets/images/desert_breeze_hotel.jpg"
+  },
+  {
+    "name": "RoseVilla Hotel",
+    "category": "Hotels",
+    "description": "A hotel offering clean, spacious rooms with balconies, located within walking distance of Arua town.",
+    "location": "Arua, Uganda",
+    "contact": "+256 39 2001482",
+    "image": "assets/images/rosevilla_hotel.jpg"
+  },
+  {
+    "name": "Le Tsuba Grand Hotel",
+    "category": "Hotels",
+    "description": "A well-established hotel known for friendly service, elevator access, and a comfortable, homely atmosphere.",
+    "location": "Plot 15 Circular Road, Arua",
+    "contact": "+256 39 3246190",
+    "image": "assets/images/le_tsuba_grand_hotel.jpg"
+  },
+  {
+    "name": "Blue Dove Hotel Arua",
+    "category": "Hotels",
+    "description": "A quiet, pocket-friendly hotel with gardens, a bar and lounge, ample parking, and good security.",
+    "location": "Municipal, Arua",
+    "contact": "+256 39 3243273",
+    "image": "assets/images/blue_dove_hotel.jpg"
+  },
+  {
+    "name": "Novella Guesthouse",
+    "category": "Hotels",
+    "description": "An affordable, immaculately clean guesthouse known for its warm, welcoming management and comfortable rooms.",
+    "location": "School Road, Arua",
+    "contact": "+256 200 948424",
+    "image": "assets/images/novella_guesthouse.jpg"
+  },
+  {
+    "name": "L'Hotel Le Confidentiel",
+    "category": "Hotels",
+    "description": "A newer, expansive hotel offering a serene environment, restaurant, bar, health club, and even a small cinema.",
+    "location": "Pakwach Road, Arua",
+    "contact": "+256 761 688181",
+    "image": "assets/images/le_confidentiel_hotel.jpg"
+  },
+  {
+    "name": "Hotel Santa Maria",
+    "category": "Hotels",
+    "description": "A budget hotel offering a quiet, peaceful stay close to the city center.",
+    "location": "Arua, Uganda",
+    "contact": "+256 701 523585",
+    "image": "assets/images/hotel_santa_maria.jpg"
+  },
+  {
+    "name": "Rojey Creamery",
+    "category": "Restaurants",
+    "description": "A popular cafe and restaurant offering a variety of foods and refreshments including ice cream, cakes, pizza, burgers, sandwiches, coffee, juices and other confectionery products.",
+    "location": "Plot 21, Pakwach Road, Arua City, Uganda",
+    "contact": "+256 393 247352",
+    "image": "assets/images/rojey_creamery.jpg"
+  },
+  {
+    "name": "Bagdad Restaurant Arua",
+    "category": "Restaurants",
+    "description": "A local restaurant serving meals and refreshments in a casual setting in the middle of Arua town.",
+    "location": "Arua",
+    "contact": "+256 782 203090",
+    "image": "assets/images/bagdad_restaurant.jpg"
+  },
+  {
+    "name": "Desert Breeze Hotel Dining Hall",
+    "category": "Restaurants",
+    "description": "A spacious restaurant known for local and international dishes, a well-stocked bar, and conference facilities.",
+    "location": "Oda Road, Arua",
+    "contact": "+256 39 2175934",
+    "image": "assets/images/desert_breeze_dining.jpg"
+  },
+  {
+    "name": "O&S Kitchen",
+    "category": "Restaurants",
+    "description": "An affordable eatery popular for local food, drinks, and a relaxed atmosphere for families and friends.",
+    "location": "Plot 15A Transport Road, Arua",
+    "contact": "+256 774 467979",
+    "image": "assets/images/os_kitchen.jpg"
+  },
+  {
+    "name": "Saffron Restaurant",
+    "category": "Restaurants",
+    "description": "A restaurant specializing in Indian cuisine, including a variety of vegetarian dishes and biryani.",
+    "location": "Avenue Road, Arua",
+    "contact": "+256 763 003418",
+    "image": "assets/images/saffron_restaurant.jpg"
+  },
+  {
+    "name": "Peppercorn Bar and Restaurant Arua",
+    "category": "Restaurants",
+    "description": "A restaurant known for grilled chicken specialties, local and Indian dishes, in a well-set, pleasant atmosphere.",
+    "location": "Plot 47, Orasia Complex, Adumi Road, Arua",
+    "contact": "+256 781 072533",
+    "image": "assets/images/peppercorn_restaurant.jpg"
+  },
+  {
+    "name": "Bamboo Village",
+    "category": "Restaurants",
+    "description": "A relaxed outdoor restaurant surrounded by trees, popular for its calm atmosphere and pool table.",
+    "location": "Arua, Uganda",
+    "contact": "",
+    "image": "assets/images/bamboo_village.jpg"
+  },
+  {
+    "name": "Mimi's Sensation",
+    "category": "Restaurants",
+    "description": "A family restaurant offering a variety of meals throughout the day.",
+    "location": "Ediofe Road, Arua",
+    "contact": "",
+    "image": "assets/images/mimis_sensation.jpg"
+  },
+  {
+    "name": "Capital One Lounge",
+    "category": "Lounges & Bars",
+    "description": "A lively nightlife spot and lounge offering drinks, music, and social spaces.",
+    "location": "Weatherhead Lane, Arua",
+    "contact": "+256 780 782753",
+    "image": "assets/images/capital_one_lounge.jpg"
+  },
+  {
+    "name": "Sky Lounge and Kitchen",
+    "category": "Lounges & Bars",
+    "description": "A 24-hour lounge and bar known for live DJ nights, good food, and drinks, with a great view.",
+    "location": "Rhino Camp Road, Arua",
+    "contact": "+256 780 771969",
+    "image": "assets/images/sky_lounge.jpg"
+  },
+  {
+    "name": "Hi-5 Kitchen & Lounge",
+    "category": "Lounges & Bars",
+    "description": "A lounge offering entertainment, a bar, boutique, and restaurant in one relaxed setting.",
+    "location": "Concord Business Center, Arua",
+    "contact": "+256 771 555824",
+    "image": "assets/images/hi5_lounge.jpg"
+  },
+  {
+    "name": "Fabrica Lounge",
+    "category": "Lounges & Bars",
+    "description": "A casual lounge spot for drinks and relaxed hangouts in Arua.",
+    "location": "Kaya Highway, Arua",
+    "contact": "",
+    "image": "assets/images/fabrica_lounge.jpg"
+  },
+  {
+    "name": "Relaxy Lounge",
+    "category": "Lounges & Bars",
+    "description": "A basic, fairly priced bar known for nyama choma and a relaxed vibe.",
+    "location": "Arua, Uganda",
+    "contact": "+256 782 351924",
+    "image": "assets/images/relaxy_lounge.jpg"
+  },
+  {
+    "name": "Missions Café & Guest House - Arua",
+    "category": "Cafés & Fast Food",
+    "description": "A peaceful cafe offering coffee, cold drinks, and food, with comfortable guesthouse rooms and conference space attached.",
+    "location": "Plot 25 Oluko Road, Arua",
+    "contact": "+256 779 001586",
+    "image": "assets/images/missions_cafe.jpg"
+  },
+  {
+    "name": "Lord of Fries Restaurant Outdoor",
+    "category": "Cafés & Fast Food",
+    "description": "An outdoor fast-food spot in Arua serving quick bites in a casual setting.",
+    "location": "Arua, Uganda",
+    "contact": "+256 778 248684",
+    "image": "assets/images/lord_of_fries.jpg"
+  },
+  {
+    "name": "OCIBA HILLS",
+    "category": "Gyms",
+    "description": "A gym and fitness location serving the Arua community.",
+    "location": "Arua, Uganda",
+    "contact": "",
+    "image": "assets/images/ociba_hills_gym.jpg"
+  },
+  {
+    "name": "Desert Breeze Hotel Pool",
+    "category": "Swimming Pools",
+    "description": "One of Arua's most spacious and well-known swimming pools, deep and clean, popular with both hotel guests and visitors.",
+    "location": "Plot 20 Odaa Close, Arua",
+    "contact": "+256 781 620905",
+    "image": "assets/images/desert_breeze_pool.jpg"
+  },
+  {
+    "name": "White Castle Hotel Pool",
+    "category": "Swimming Pools",
+    "description": "A hotel swimming pool set within a lush, green, calm environment on the south side of Arua.",
+    "location": "Arua, Uganda",
+    "contact": "+256 772 880830",
+    "image": "assets/images/white_castle_pool.jpg"
+  },
+  {
+    "name": "L'Hotel Le Confidentiel Pool",
+    "category": "Swimming Pools",
+    "description": "A serene hotel swimming pool complemented by a health club, sauna, and steam bath, just outside Arua town.",
+    "location": "Pakwach Road, Arua",
+    "contact": "+256 761 688181",
+    "image": "assets/images/le_confidentiel_pool.jpg"
+  }
+]

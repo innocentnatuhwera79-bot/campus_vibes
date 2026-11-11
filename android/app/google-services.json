@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742917414120",
+    "project_id": "campus-vibes-b4aa9",
+    "storage_bucket": "campus-vibes-b4aa9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742917414120:android:d33bad17b7d7e26ebdbd5d",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdvMuXuh12htf19Z0b68OJjsYYwmLr7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
